@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Andr3pny
-- 🌱 I’m currently a student in computer engineer
-- I'm from spaghetti mafia country
+
 
 
 <!---
